@@ -1,0 +1,7 @@
+# Binary
+/someday
+/someday.exe
+
+# Local data & database
+.someday/
+*.db
